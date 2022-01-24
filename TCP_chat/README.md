@@ -45,3 +45,17 @@
 
 ## Демонстрация
 
+### Работа Сервера
+![image](https://user-images.githubusercontent.com/43438823/150809966-59b2ed2d-baa0-4c73-be5c-87f804e48bce.png)
+
+### Пользователь 1
+![image](https://user-images.githubusercontent.com/43438823/150810015-179a69a8-e7d7-4d28-8135-ba21b24e7b47.png)
+
+### Пользователь 2
+![image](https://user-images.githubusercontent.com/43438823/150810068-f93d6902-718f-4288-932e-f5a54f032490.png)
+
+### Пользователь 3
+![image](https://user-images.githubusercontent.com/43438823/150810099-c8bdddd4-69ca-44cb-917a-4b97f119283d.png)
+
+### Пользователь 4
+![image](https://user-images.githubusercontent.com/43438823/150810115-33c50864-b2ef-400a-bdf4-c3baf1e33235.png)
